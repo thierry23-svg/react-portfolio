@@ -1,0 +1,23 @@
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+h4{
+    color: white;
+}
+ol{
+    color: white;
+}
+ul{
+    color: white;
+}
+.mycv{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNFpZUusVnBdUffCn-Z5tFD9Htx_fYwkA2Eg&s");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    color: white;
+}
